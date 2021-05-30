@@ -1,0 +1,3 @@
+netsh interface ipv4 show config > C:\Users\%USERNAME%\Desktop\%USERNAME%-netsh.txt | type C:\Users\%USERNAME%\Desktop\%USERNAME%-netsh.txt
+ipconfig /all > C:\Users\%USERNAME%\Desktop\%USERNAME%-ipconfig.txt | type C:\Users\%USERNAME%\Desktop\%USERNAME%-ipconfig.txt
+wmic path softwarelicensingservice get OA3xOriginalProductKey > C:\Users\%USERNAME%\Desktop\%USERNAME%-ProductKey.txt | type C:\Users\%USERNAME%\Desktop\%USERNAME%-ProductKey.txt

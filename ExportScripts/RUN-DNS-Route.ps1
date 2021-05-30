@@ -1,0 +1,1 @@
+.\DNS-Route.ps1 > C:\Users\$env:UserName\Desktop\ExportInfo\$env:UserName-DNS.txt
