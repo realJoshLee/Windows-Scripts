@@ -1,5 +1,11 @@
-# Allows PS scripts to be ran
-set-executionpolicy remotesigned
+# This will ask for a domain and it will show what IP address each
+# DNS server provides.
+# Example:
+#   1.1.1.1 - 93.184.216.34
+#   1.0.0.1 - 93.184.216.34
+#
+# In this instance the traced domain is 'example.com' and it will
+# show the domains IP. Used for diagnosis.
 
 $domainName = Read-Host -Prompt 'Enter a website'
 #$domainName = "bendu.company.local"
