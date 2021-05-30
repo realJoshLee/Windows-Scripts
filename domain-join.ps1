@@ -1,5 +1,3 @@
-﻿set-executionpolicy remotesigned
-
 $domain = "domain.local"
 $password = "password" | ConvertTo-SecureString -asPlainText -Force
 $username = "$domain\username" 
