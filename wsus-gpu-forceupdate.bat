@@ -1,0 +1,2 @@
+gpupdate /force
+wuauclt /detectnow
