@@ -10,4 +10,5 @@ Anything in the 'ExportScripts' folder will export the the contents to a file on
 There are 2 different scripts to be ran in that folder even though there are 3 differnt files in the folder. The scripts that can be ran are:
 - Device-Info.bat
 - RUN-DNS-Route.ps1
+
 If you want to use the RUN-DNS-Route.ps1 file, just make sure that you download the DNS-Route.ps1 file as well.
