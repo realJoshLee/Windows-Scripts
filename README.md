@@ -1,5 +1,5 @@
 # Windows Scripts
-These scripts where developed for Windows 10, they may work on older Windows versions but haven't been tested.
+These scripts where developed for Windows 10, they may work on older Windows versions but haven't been tested. Some of these scripts are meant to be used for a domain enrolled computer and the rest of them can be used for both domain enrolled and not domain enrolled computers.
 
 ## Use
 Just download the script(s), edit the script(s) if needed, and then run the script(s).
